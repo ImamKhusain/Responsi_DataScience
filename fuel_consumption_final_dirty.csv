@@ -1,0 +1,957 @@
+Model Year,Vehicle Class,Fuel Type,Engine Size(L),Cylinders,Fuel Consumption(Comb (mpg)),Eco_Friendly
+2022,COMPACT,Z,2.4,4,33,1
+2022,suv: small,Z,3.5,6,25,0
+2022,suv: small,Z,2.0,4,29,1
+2022,suv: small,Z,2.0,4,27,1
+2022,COMPACT,Z,2.0,4,29,1
+2022,COMPACT,Z,2.0,4,29,1
+2022,COMPACT,Z,3.0,6,26,1
+2022,COMPACT,Z,3.0,6,25,0
+2022,Mid-size,Z,2.0,4,32,1
+2022,Mid-size,Z,2.0,4,31,1
+2022,Mid-size,Z,2.9,6,24,0
+2022,suv: small,Z,2.0,4,30,1
+2022,suv: small,Z,2.0,4,29,1
+2022,suv: small,Z,2.9,6,23,0
+2022,Minicompact,Z,4.0,8,25,0
+2022,Minicompact,Z,5.2,12,20,0
+2022,Minicompact,Z,5.2,12,20,0
+2022,SUV: Standard,Z,4.0,8,19,0
+2022,Two-seater,Z,4.0,8,25,0
+2022,Subcompact,X,2.0,4,37,1
+2022,COMPACT,Z,2.0,4,34,1
+2022,COMPACT,Z,2.0,4,32,1
+2022,Station wagon: Small,Z,2.0,4,32,1
+2022,Subcompact,Z,2.0,4,31,1
+2022,Subcompact,Z,2.0,4,32,1
+2022,Mid-size,Z,2.0,4,32,1
+2022,Mid-size,Z,2.0,4,32,1
+2022,Mid-size,Z,3.0,6,29,1
+2022,Station wagon: Mid-size,Z,3.0,6,28,1
+2022,Mid-size,Z,3.0,6,29,1
+2022,Full-size,Z,3.0,6,27,1
+2022,suv: small,X,2.0,4,31,1
+2022,suv: small,X,2.0,4,28,1
+2022,suv: small,Z,2.0,4,30,1
+2022,suv: small,Z,2.0,4,30,0
+2022,suv: small,Z,2.0,4,30,0
+2022,SUV: Standard,Z,2.0,4,26,1
+2022,SUV: Standard,Z,3.0,6,24,0
+2022,SUV: Standard,Z,3.0,6,24,0
+2022,Two-seater,Z,5.2,10,20,0
+2022,Two-seater,Z,5.2,10,18,0
+2022,Two-seater,Z,5.2,10,20,0
+2022,Two-seater,Z,5.2,10,18,0
+2022,Subcompact,Z,2.9,6,25,0
+2022,Mid-size,Z,2.9,6,25,0
+2022,Station wagon: Mid-size,Z,4.0,8,21,0
+2022,Mid-size,Z,4.0,8,21,0
+2022,SUV: Standard,Z,4.0,8,18,0
+2022,Subcompact,Z,2.0,4,32,1
+2022,COMPACT,Z,3.0,6,29,1
+2022,Subcompact,Z,3.0,6,28,1
+2022,Subcompact,Z,3.0,6,29,1
+2022,Mid-size,Z,3.0,6,29,1
+2022,Mid-size,Z,2.9,6,26,1
+2022,Mid-size,Z,2.9,6,26,1
+2022,Full-size,Z,4.0,8,20,0
+2022,suv: small,Z,3.0,6,25,0
+2022,suv: small,Z,3.0,6,25,0
+2022,SUV: Standard,Z,4.0,8,20,0
+2022,SUV: Standard,Z,4.0,8,20,0
+2022,Subcompact,X,2.0,4,30,1
+2022,Two-seater,X,2.0,4,30,1
+2022,Subcompact,Z,2.5,5,28,1
+2022,Subcompact,Z,2.0,4,31,1
+2022,SUV: Standard,Z,4.0,8,21,0
+2022,SUV: Standard,Z,6.0,12,17,0
+2022,Subcompact,Z,4.0,8,23,0
+2022,Subcompact,Z,6.0,12,17,0
+2022,Minicompact,Z,4.0,8,23,0
+2022,Minicompact,Z,6.0,12,17,0
+2022,Mid-size,Z,4.0,8,21,0
+2022,Mid-size,Z,6.0,12,18,0
+2022,COMPACT,Z,2.0,4,34,1
+2022,Subcompact,Z,2.0,4,32,1
+2022,Subcompact,Z,2.0,4,32,1
+2022,Mid-size,Z,2.0,4,32,1
+2022,Full-size,Z,3.0,6,30,1
+2022,Full-size,Z,4.4,8,24,0
+2022,Full-size,Z,4.4,8,24,0
+2022,Full-size,Z,4.4,8,24,0
+2022,Mid-size,Z,4.4,8,24,0
+2022,SUV: Standard,Z,4.4,8,20,0
+2022,COMPACT,Z,2.0,4,31,1
+2022,Subcompact,Z,3.0,6,31,1
+2022,COMPACT,Z,3.0,6,22,0
+2022,COMPACT,Z,3.0,6,22,0
+2022,COMPACT,Z,3.0,6,22,0
+2022,COMPACT,Z,3.0,6,31,1
+2022,Subcompact,Z,3.0,6,22,0
+2022,Subcompact,Z,3.0,6,22,0
+2022,Subcompact,Z,3.0,6,22,0
+2022,Subcompact,Z,3.0,6,22,0
+2022,Subcompact,Z,3.0,6,31,1
+2022,Subcompact,Z,3.0,6,31,1
+2022,COMPACT,Z,3.0,6,29,0
+2022,Mid-size,Z,4.4,8,20,0
+2022,Mid-size,Z,4.4,8,20,0
+2022,Mid-size,Z,4.4,8,20,0
+2022,Mid-size,Z,4.4,8,24,0
+2022,Full-size,Z,6.6,12,19,0
+2022,Subcompact,Z,4.4,8,20,0
+2022,Subcompact,Z,4.4,8,20,0
+2022,Subcompact,Z,4.4,8,20,0
+2022,Subcompact,Z,4.4,8,20,0
+2022,Mid-size,Z,4.4,8,20,0
+2022,Mid-size,Z,4.4,8,20,0
+2022,Subcompact,Z,4.4,8,24,0
+2022,Subcompact,Z,4.4,8,24,0
+2022,Mid-size,Z,4.4,8,24,0
+2022,suv: small,Z,2.0,4,31,1
+2022,suv: small,Z,2.0,4,32,1
+2022,suv: small,Z,2.0,4,32,1
+2022,suv: small,Z,2.0,4,29,1
+2022,suv: small,Z,3.0,6,20,0
+2022,suv: small,Z,3.0,6,20,0
+2022,suv: small,Z,3.0,6,27,1
+2022,suv: small,Z,2.0,4,29,1
+2022,suv: small,Z,3.0,6,20,0
+2022,suv: small,Z,3.0,6,20,0
+2022,suv: small,Z,3.0,6,27,1
+2022,SUV: Standard,Z,3.0,6,27,1
+2022,SUV: Standard,Z,4.4,8,18,0
+2022,SUV: Standard,Z,4.4,8,18,0
+2022,SUV: Standard,Z,4.4,8,22,0
+2022,SUV: Standard,Z,3.0,6,27,1
+2022,SUV: Standard,Z,4.4,8,18,0
+2022,SUV: Standard,Z,4.4,8,18,0
+2022,SUV: Standard,Z,4.4,8,22,0
+2022,SUV: Standard,Z,3.0,6,25,1
+2022,SUV: Standard,Z,4.4,8,20,0
+2022,Two-seater,Z,2.0,4,33,1
+2022,Two-seater,Z,3.0,6,29,1
+2022,Two-seater,Z,8.0,16,13,0
+2022,Two-seater,Z,8.0,16,11,0
+2022,Two-seater,Z,8.0,16,11,0
+2022,SUV: Standard,X,3.6,6,25,0
+2022,SUV: Standard,X,3.6,6,24,0
+2022,suv: small,X,1.4,4,33,1
+2022,suv: small,X,1.4,4,31,1
+2022,suv: small,X,1.2,3,36,1
+2022,suv: small,X,1.3,3,36,1
+2022,suv: small,X,1.3,3,33,1
+2022,suv: small,X,2.0,4,32,1
+2022,suv: small,X,2.0,4,30,1
+2022,COMPACT,Z,2.0,4,32,1
+2022,COMPACT,Z,2.7,4,30,1
+2022,COMPACT,Z,2.0,4,31,1
+2022,COMPACT,Z,2.7,4,28,1
+2022,COMPACT,Z,2.7,4,28,1
+2022,COMPACT,Z,2.7,4,27,1
+2022,COMPACT,Z,3.6,6,22,0
+2022,COMPACT,Z,3.6,6,22,0
+2022,Mid-size,Z,2.0,4,32,1
+2022,Mid-size,Z,3.0,6,26,1
+2022,Mid-size,Z,2.0,4,30,1
+2022,Mid-size,Z,3.0,6,25,0
+2022,Mid-size,Z,3.0,6,26,0
+2022,Mid-size,Z,3.0,6,25,0
+2022,Mid-size,Z,6.2,8,19,0
+2022,Mid-size,Z,6.2,8,19,0
+2022,SUV: Standard,D,3.0,6,27,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,suv: small,Z,2.0,4,31,1
+2022,suv: small,Z,2.0,4,29,1
+2022,suv: small,Z,2.0,4,29,1
+2022,suv: small,Z,2.0,4,28,1
+2022,suv: small,X,3.6,6,25,0
+2022,suv: small,Z,2.0,4,28,1
+2022,suv: small,X,3.6,6,25,0
+2022,suv: small,X,2.0,4,30,1
+2022,suv: small,X,3.6,6,26,1
+2022,suv: small,X,2.0,4,29,1
+2022,suv: small,X,3.6,6,26,0
+2022,Subcompact,Z,2.0,4,30,1
+2022,Subcompact,Z,2.0,4,27,1
+2022,Subcompact,X,3.6,6,26,1
+2022,Subcompact,X,3.6,6,24,0
+2022,Subcompact,Z,6.2,8,24,0
+2022,Subcompact,Z,6.2,8,22,0
+2022,Subcompact,Z,6.2,8,19,0
+2022,Subcompact,Z,6.2,8,19,0
+2022,Pickup truck: Small,X,2.5,4,26,1
+2022,Pickup truck: Small,D,2.8,4,28,0
+2022,Pickup truck: Small,X,3.6,6,25,0
+2022,Pickup truck: Small,X,2.5,4,25,0
+2022,Pickup truck: Small,D,2.8,4,27,0
+2022,Pickup truck: Small,X,3.6,6,23,0
+2022,Pickup truck: Small,D,2.8,4,23,0
+2022,Pickup truck: Small,X,3.6,6,20,0
+2022,Two-seater,Z,6.2,8,22,0
+2022,suv: small,X,1.5,4,34,0
+2022,suv: small,X,1.5,4,32,1
+2022,Mid-size,X,1.5,4,38,1
+2022,Mid-size,Z,2.0,4,31,1
+2022,Pickup truck: Standard,X,2.7,4,24,0
+2022,Pickup truck: Standard,D,3.0,6,32,1
+2022,Pickup truck: Standard,X,5.3,8,19,0
+2022,Pickup truck: Standard,E,5.3,8,15,0
+2022,Pickup truck: Standard,X,5.3,8,21,0
+2022,Pickup truck: Standard,X,5.3,8,22,0
+2022,Pickup truck: Standard,X,2.7,4,22,0
+2022,Pickup truck: Standard,X,2.7,4,20,0
+2022,Pickup truck: Standard,D,3.0,6,28,0
+2022,Pickup truck: Standard,D,3.0,6,29,0
+2022,Pickup truck: Standard,D,3.0,6,25,0
+2022,Pickup truck: Standard,X,5.3,8,19,0
+2022,Pickup truck: Standard,E,5.3,8,14,0
+2022,Pickup truck: Standard,X,5.3,8,17,0
+2022,Pickup truck: Standard,E,5.3,8,13,0
+2022,Pickup truck: Standard,X,5.3,8,20,0
+2022,Pickup truck: Standard,X,5.3,8,18,0
+2022,Pickup truck: Standard,X,5.3,8,21,0
+2022,Pickup truck: Standard,X,5.3,8,19,0
+2022,Pickup truck: Standard,X,5.3,8,20,0
+2022,Pickup truck: Standard,X,5.3,8,20,0
+2022,Pickup truck: Standard,X,5.3,8,18,0
+2022,Pickup truck: Standard,X,5.3,8,18,0
+2022,Pickup truck: Standard,X,5.3,8,17,0
+2022,Pickup truck: Standard,Z,6.2,8,20,0
+2022,Pickup truck: Standard,Z,6.2,8,19,0
+2022,Pickup truck: Standard,Z,6.2,8,19,0
+2022,Pickup truck: Standard,Z,6.2,8,19,0
+2022,Pickup truck: Standard,Z,6.2,8,17,0
+2022,Pickup truck: Standard,Z,6.2,8,18,0
+2022,Subcompact,X,1.4,4,40,1
+2022,Subcompact,X,1.4,4,39,1
+2022,SUV: Standard,D,3.0,6,28,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,D,3.0,6,27,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,X,5.3,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,SUV: Standard,D,3.0,6,29,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,D,3.0,6,27,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,X,5.3,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,suv: small,X,1.2,3,36,1
+2022,suv: small,X,1.3,3,37,1
+2022,suv: small,X,1.3,3,34,1
+2022,SUV: Standard,X,3.6,6,25,0
+2022,SUV: Standard,X,3.6,6,24,0
+2022,suv: small,X,1.4,4,33,0
+2022,suv: small,X,1.4,4,31,1
+2022,Full-size,X,3.6,6,27,1
+2022,Full-size,X,5.7,8,23,0
+2022,Full-size,X,3.6,6,26,0
+2022,Minivan,X,3.6,6,27,1
+2022,Minivan,X,3.6,6,27,1
+2022,Minivan,X,3.6,6,24,0
+2022,Mid-size,X,3.6,6,27,1
+2022,Mid-size,X,5.7,8,23,0
+2022,Mid-size,Z,5.7,8,22,0
+2022,Mid-size,Z,6.4,8,22,0
+2022,Mid-size,Z,6.4,8,20,0
+2022,Mid-size,X,3.6,6,26,0
+2022,Mid-size,Z,6.4,8,22,0
+2022,Mid-size,Z,6.4,8,20,0
+2022,Mid-size,Z,6.2,8,19,0
+2022,Mid-size,Z,6.2,8,19,0
+2022,Mid-size,Z,6.2,8,18,0
+2022,Mid-size,Z,6.2,8,19,0
+2022,Full-size,X,3.6,6,27,1
+2022,Full-size,X,5.7,8,23,0
+2022,Full-size,Z,6.4,8,22,0
+2022,Full-size,X,3.6,6,26,0
+2022,Full-size,Z,6.4,8,22,0
+2022,Full-size,Z,6.2,8,18,0
+2022,SUV: Standard,X,3.6,6,25,0
+2022,SUV: Standard,X,5.7,8,20,0
+2022,SUV: Standard,Z,6.4,8,18,0
+2022,suv: small,X,1.3,4,31,1
+2022,suv: small,X,2.3,4,24,0
+2022,suv: small,X,2.3,4,24,0
+2022,suv: small,X,2.7,6,23,0
+2022,suv: small,X,2.3,4,21,0
+2022,suv: small,X,2.3,4,20,0
+2022,suv: small,X,2.7,6,20,0
+2022,suv: small,X,2.3,4,22,0
+2022,suv: small,X,2.3,4,21,0
+2022,suv: small,X,2.3,4,21,0
+2022,suv: small,X,2.3,4,21,0
+2022,suv: small,X,2.7,6,20,0
+2022,suv: small,X,1.5,3,32,1
+2022,suv: small,X,2.0,4,27,1
+2022,suv: small,X,2.0,4,30,1
+2022,suv: small,X,2.0,4,28,1
+2022,suv: small,X,2.0,4,28,1
+2022,suv: small,X,2.7,6,25,0
+2022,suv: small,X,1.5,3,36,1
+2022,suv: small,X,1.5,3,34,1
+2022,suv: small,X,2.0,4,31,1
+2022,suv: small,X,2.5,4,49,0
+2022,suv: small,X,2.5,4,48,1
+2022,SUV: Standard,X,3.5,6,22,0
+2022,SUV: Standard,X,3.5,6,21,0
+2022,SUV: Standard,X,3.5,6,21,0
+2022,SUV: Standard,X,3.5,6,20,0
+2022,SUV: Standard,X,2.3,4,27,1
+2022,SUV: Standard,X,2.3,4,26,1
+2022,SUV: Standard,X,2.3,4,25,0
+2022,SUV: Standard,X,2.3,4,24,0
+2022,SUV: Standard,X,3.0,6,24,0
+2022,SUV: Standard,X,3.3,6,29,1
+2022,Pickup truck: Standard,X,2.7,6,26,1
+2022,Pickup truck: Standard,X,2.7,6,24,0
+2022,Pickup truck: Standard,X,3.3,6,25,0
+2022,Pickup truck: Standard,E,3.3,6,19,1
+2022,Pickup truck: Standard,X,3.5,6,24,0
+2022,Pickup truck: Standard,X,3.5,6,24,0
+2022,Pickup truck: Standard,X,5.0,8,22,0
+2022,Pickup truck: Standard,E,5.0,8,16,0
+2022,Pickup truck: Standard,X,5.0,8,22,0
+2022,Pickup truck: Standard,E,5.0,8,16,0
+2022,Pickup truck: Standard,X,2.7,6,24,0
+2022,Pickup truck: Standard,X,3.3,6,24,0
+2022,Pickup truck: Standard,E,3.3,6,18,1
+2022,Pickup truck: Standard,X,3.5,6,23,0
+2022,Pickup truck: Standard,X,3.5,6,22,0
+2022,Pickup truck: Standard,X,5.0,8,22,0
+2022,Pickup truck: Standard,E,5.0,8,16,0
+2022,Pickup truck: Standard,X,5.0,8,22,0
+2022,Pickup truck: Standard,E,5.0,8,16,0
+2022,Pickup truck: Standard,X,3.5,6,19,0
+2022,Pickup truck: Standard,X,3.5,6,19,0
+2022,Pickup truck: Standard,X,3.5,6,18,0
+2022,Pickup truck: Standard,X,3.5,6,18,0
+2022,Pickup truck: Standard,X,3.5,6,21,0
+2022,Pickup truck: Standard,X,3.5,6,21,0
+2022,Pickup truck: Standard,X,3.5,6,29,1
+2022,Pickup truck: Standard,X,3.5,6,28,1
+2022,Two-seater,Z,3.5,6,17,0
+2022,Pickup truck: Small,X,2.0,4,29,1
+2022,Pickup truck: Small,X,2.5,4,45,0
+2022,Subcompact,X,2.3,4,30,1
+2022,Subcompact,X,2.3,4,29,1
+2022,Subcompact,X,2.3,4,27,1
+2022,Subcompact,X,2.3,4,28,1
+2022,Subcompact,X,2.3,4,27,1
+2022,Subcompact,X,5.0,8,22,0
+2022,Subcompact,X,5.0,8,21,0
+2022,Subcompact,X,2.3,4,28,0
+2022,Subcompact,X,2.3,4,27,1
+2022,Subcompact,X,2.3,4,26,1
+2022,Subcompact,X,2.3,4,27,1
+2022,Subcompact,X,2.3,4,26,1
+2022,Subcompact,X,5.0,8,21,0
+2022,Subcompact,X,5.0,8,22,0
+2022,Subcompact,X,5.0,8,19,0
+2022,Pickup truck: Standard,X,2.3,4,26,1
+2022,Pickup truck: Standard,X,2.3,4,25,0
+2022,Pickup truck: Standard,X,2.3,4,23,0
+2022,Subcompact,Z,5.2,8,17,0
+2022,Special purpose vehicle,X,2.0,4,30,1
+2022,Special purpose vehicle,X,2.0,4,30,1
+2022,Special purpose vehicle,E,2.0,4,22,1
+2022,Special purpose vehicle,X,2.5,4,27,1
+2022,Special purpose vehicle,X,2.0,4,31,1
+2022,Special purpose vehicle,X,2.0,4,31,1
+2022,Special purpose vehicle,E,2.0,4,21,1
+2022,Special purpose vehicle,X,2.5,4,27,0
+2022,COMPACT,Z,3.3,6,25,0
+2022,Full-size,Z,2.5,4,30,1
+2022,Full-size,Z,3.5,6,22,0
+2022,Full-size,Z,5.0,8,22,0
+2022,suv: small,Z,2.5,4,29,0
+2022,suv: small,Z,3.5,6,24,0
+2022,SUV: Standard,Z,2.5,4,27,1
+2022,SUV: Standard,Z,3.5,6,24,0
+2022,SUV: Standard,X,2.0,4,30,1
+2022,SUV: Standard,X,3.6,6,26,1
+2022,SUV: Standard,X,2.0,4,29,1
+2022,SUV: Standard,X,3.6,6,26,0
+2022,Pickup truck: Small,X,2.5,4,26,1
+2022,Pickup truck: Small,D,2.8,4,28,0
+2022,Pickup truck: Small,X,3.6,6,25,0
+2022,Pickup truck: Small,X,2.5,4,25,0
+2022,Pickup truck: Small,D,2.8,4,27,0
+2022,Pickup truck: Small,X,3.6,6,23,0
+2022,Pickup truck: Standard,X,2.7,4,24,0
+2022,Pickup truck: Standard,D,3.0,6,31,0
+2022,Pickup truck: Standard,X,5.3,8,19,0
+2022,Pickup truck: Standard,E,5.3,8,15,0
+2022,Pickup truck: Standard,X,5.3,8,21,0
+2022,Pickup truck: Standard,X,5.3,8,22,0
+2022,Pickup truck: Standard,X,2.7,4,22,0
+2022,Pickup truck: Standard,X,2.7,4,20,0
+2022,Pickup truck: Standard,D,3.0,6,29,0
+2022,Pickup truck: Standard,D,3.0,6,25,0
+2022,Pickup truck: Standard,X,5.3,8,19,0
+2022,Pickup truck: Standard,E,5.3,8,14,0
+2022,Pickup truck: Standard,X,5.3,8,17,0
+2022,Pickup truck: Standard,E,5.3,8,13,0
+2022,Pickup truck: Standard,X,5.3,8,20,0
+2022,Pickup truck: Standard,X,5.3,8,18,0
+2022,Pickup truck: Standard,X,5.3,8,21,0
+2022,Pickup truck: Standard,X,5.3,8,19,0
+2022,Pickup truck: Standard,X,5.3,8,20,0
+2022,Pickup truck: Standard,X,5.3,8,20,0
+2022,Pickup truck: Standard,X,5.3,8,18,0
+2022,Pickup truck: Standard,X,5.3,8,17,0
+2022,Pickup truck: Standard,Z,6.2,8,20,0
+2022,Pickup truck: Standard,Z,6.2,8,19,0
+2022,Pickup truck: Standard,Z,6.2,8,19,0
+2022,Pickup truck: Standard,Z,6.2,8,17,0
+2022,suv: small,X,1.5,4,33,1
+2022,suv: small,X,1.5,4,31,1
+2022,SUV: Standard,D,3.0,6,28,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,D,3.0,6,27,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,X,5.3,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,SUV: Standard,D,3.0,6,28,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,D,3.0,6,27,0
+2022,SUV: Standard,X,5.3,8,20,0
+2022,SUV: Standard,X,5.3,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,SUV: Standard,Z,6.2,8,19,0
+2022,Full-size,X,1.5,4,39,1
+2022,Full-size,X,1.5,4,38,1
+2022,Full-size,X,2.0,4,31,1
+2022,Full-size,X,2.0,4,56,1
+2022,Full-size,X,2.0,4,51,1
+2022,Full-size,X,1.5,4,40,1
+2022,Full-size,X,1.5,4,38,0
+2022,Full-size,X,2.0,4,39,0
+2022,Full-size,X,2.0,4,35,1
+2022,Mid-size,X,1.5,4,41,1
+2022,Mid-size,X,2.0,4,41,1
+2022,Mid-size,X,2.0,4,40,1
+2022,Mid-size,Z,1.5,4,37,1
+2022,suv: small,X,1.5,4,37,1
+2022,suv: small,X,1.5,4,35,1
+2022,Station wagon: Small,X,1.8,4,36,1
+2022,Station wagon: Small,X,1.8,4,34,1
+2022,Station wagon: Small,X,1.8,4,33,1
+2022,Minivan,X,3.5,6,27,1
+2022,suv: small,X,3.5,6,25,0
+2022,suv: small,X,3.5,6,26,1
+2022,suv: small,X,3.5,6,25,0
+2022,Pickup truck: Standard,X,3.5,6,25,0
+2022,Mid-size,X,1.6,4,37,1
+2022,Mid-size,X,2.0,4,42,1
+2022,Mid-size,X,2.0,4,44,1
+2022,Mid-size,X,2.0,4,36,1
+2022,Mid-size,Z,2.0,4,28,1
+2022,Mid-size,Z,2.0,4,30,0
+2022,Mid-size,X,1.6,4,64,1
+2022,Full-size,X,1.6,4,67,1
+2022,Full-size,X,1.6,4,71,1
+2022,suv: small,X,2.0,4,38,1
+2022,suv: small,Z,2.0,4,27,1
+2022,suv: small,X,1.6,4,34,1
+2022,suv: small,X,2.0,4,36,1
+2022,SUV: Standard,X,3.8,6,25,0
+2022,Pickup truck: Small,X,2.5,4,27,1
+2022,suv: small,X,2.5,4,29,1
+2022,suv: small,X,2.5,4,28,1
+2022,suv: small,X,1.6,4,38,1
+2022,Full-size,X,1.6,4,37,1
+2022,Full-size,X,2.5,4,32,1
+2022,Full-size,X,2.5,4,37,1
+2022,Full-size,X,2.0,4,56,1
+2022,suv: small,X,2.5,4,34,1
+2022,suv: small,X,2.5,4,31,1
+2022,suv: small,X,1.6,4,44,1
+2022,COMPACT,Z,2.0,4,27,1
+2022,COMPACT,Z,2.0,4,30,1
+2022,Mid-size,X,1.6,4,38,1
+2022,Mid-size,X,1.6,4,36,1
+2022,Mid-size,Z,3.0,6,26,1
+2022,Mid-size,Z,3.0,6,25,0
+2022,Subcompact,Z,3.0,6,26,1
+2022,Subcompact,Z,3.0,6,26,0
+2022,suv: small,Z,2.0,4,29,1
+2022,suv: small,Z,2.0,4,30,1
+2022,SUV: Standard,Z,3.5,6,26,0
+2022,SUV: Standard,Z,5.6,8,19,0
+2022,suv: small,Z,2.0,4,27,1
+2022,suv: small,Z,2.0,4,27,1
+2022,Two-seater,Z,5.0,8,23,0
+2022,Two-seater,Z,5.0,8,22,0
+2022,Two-seater,Z,5.0,8,23,0
+2022,Two-seater,Z,5.0,8,22,0
+2022,Two-seater,Z,5.0,8,22,0
+2022,Two-seater,Z,5.0,8,22,0
+2022,suv: small,X,2.0,4,31,1
+2022,suv: small,X,2.4,4,30,1
+2022,suv: small,X,3.2,6,28,1
+2022,suv: small,X,2.0,4,29,1
+2022,suv: small,X,2.4,4,29,1
+2022,suv: small,X,3.2,6,27,1
+2022,suv: small,X,3.2,6,25,0
+2022,suv: small,X,2.4,4,30,1
+2022,suv: small,X,2.4,4,30,1
+2022,Pickup truck: Standard,D,3.0,6,29,0
+2022,Pickup truck: Standard,D,3.0,6,28,0
+2022,Pickup truck: Standard,X,3.6,6,23,0
+2022,Pickup truck: Standard,X,3.6,6,22,0
+2022,SUV: Standard,X,3.6,6,26,1
+2022,SUV: Standard,X,5.7,8,20,0
+2022,SUV: Standard,X,3.6,6,25,0
+2022,SUV: Standard,X,5.7,8,20,0
+2022,SUV: Standard,X,3.6,6,25,0
+2022,SUV: Standard,Z,6.4,8,18,0
+2022,suv: small,X,1.3,4,32,1
+2022,suv: small,X,1.3,4,31,1
+2022,suv: small,X,1.3,4,29,1
+2022,SUV: Standard,X,5.7,8,20,0
+2022,suv: small,X,2.0,4,27,1
+2022,suv: small,X,3.6,6,24,0
+2022,suv: small,X,3.6,6,26,0
+2022,suv: small,X,3.6,6,24,0
+2022,suv: small,X,2.0,4,26,1
+2022,suv: small,D,3.0,6,30,1
+2022,suv: small,D,3.0,6,28,0
+2022,suv: small,X,3.6,6,24,0
+2022,suv: small,X,3.6,6,25,0
+2022,suv: small,X,3.6,6,23,0
+2022,suv: small,Z,6.4,8,17,0
+2022,Minivan,X,3.5,6,27,1
+2022,Mid-size,X,1.6,4,36,1
+2022,Mid-size,X,2.0,4,40,1
+2022,Mid-size,X,2.0,4,37,1
+2022,Full-size,X,1.6,4,35,1
+2022,Full-size,X,2.0,4,40,1
+2022,Full-size,X,2.5,4,32,1
+2022,Full-size,X,1.6,4,34,1
+2022,Station wagon: Small,X,1.6,4,61,1
+2022,Station wagon: Small,X,1.6,4,61,1
+2022,Station wagon: Small,X,1.6,4,53,1
+2022,COMPACT,X,1.6,4,42,1
+2022,COMPACT,X,1.6,4,40,1
+2022,suv: small,X,2.0,4,37,1
+2022,suv: small,X,1.6,4,32,1
+2022,suv: small,X,2.0,4,34,0
+2022,suv: small,X,2.5,4,29,1
+2022,suv: small,X,2.5,4,29,1
+2022,suv: small,X,1.6,99,43,1
+2022,Station wagon: Small,X,2.0,4,36,1
+2022,suv: small,X,2.4,4,31,1
+2022,suv: small,X,2.0,4,26,0
+2022,suv: small,X,2.4,4,28,1
+2022,Mid-size,Z,3.3,99,24,0
+2022,suv: small,X,3.8,6,25,0
+2022,Two-seater,Z,6.5,12,13,0
+2022,Two-seater,Z,6.5,12,13,0
+2022,Two-seater,Z,6.5,12,13,0
+2022,Two-seater,Z,5.2,10,18,0
+2022,Two-seater,Z,5.2,10,18,0
+2022,Two-seater,Z,5.2,10,18,0
+2022,Two-seater,Z,5.2,10,18,0
+2022,SUV: Standard,Z,4.0,8,17,0
+2022,SUV: Standard,Z,2.0,4,23,0
+2022,SUV: Standard,Z,3.0,6,23,0
+2022,SUV: Standard,Z,5.0,8,20,0
+2022,SUV: Standard,Z,2.0,4,22,0
+2022,SUV: Standard,Z,3.0,6,23,0
+2022,SUV: Standard,Z,5.0,8,19,0
+2022,SUV: Standard,Z,2.0,4,25,0
+2022,SUV: Standard,Z,3.0,6,25,0
+2022,SUV: Standard,Z,3.0,6,24,0
+2022,SUV: Standard,Z,3.0,6,24,0
+2022,SUV: Standard,Z,5.0,8,22,0
+2022,SUV: Standard,Z,5.0,8,22,0
+2022,SUV: Standard,Z,5.0,8,19,0
+2022,SUV: Standard,Z,5.0,8,18,0
+2022,SUV: Standard,Z,3.0,6,25,0
+2022,SUV: Standard,Z,3.0,6,25,0
+2022,SUV: Standard,Z,5.0,8,22,0
+2022,SUV: Standard,Z,5.0,8,20,0
+2022,Mid-size,X,2.5,4,34,1
+2022,Mid-size,X,2.5,4,53,1
+2022,Mid-size,X,3.5,6,31,1
+2022,Mid-size,X,3.5,6,30,1
+2022,SUV: Standard,Z,4.6,8,19,0
+2022,COMPACT,Z,2.0,4,30,1
+2022,COMPACT,Z,3.5,6,26,1
+2022,COMPACT,Z,3.5,6,26,1
+2022,COMPACT,Z,5.0,8,24,0
+2022,Subcompact,Z,5.0,8,22,0
+2022,Minicompact,Z,5.0,8,22,0
+2022,Subcompact,Z,3.5,6,35,1
+2022,Mid-size,Z,3.4,6,25,0
+2022,Mid-size,Z,3.5,6,31,1
+2022,SUV: Standard,Z,3.4,6,22,0
+2022,suv: small,X,2.5,4,34,1
+2022,suv: small,Z,2.4,4,30,1
+2022,suv: small,Z,2.4,4,30,1
+2022,suv: small,Z,2.5,4,47,1
+2022,Subcompact,Z,3.5,6,26,1
+2022,Subcompact,Z,3.5,6,26,0
+2022,Subcompact,Z,5.0,8,23,0
+2022,suv: small,X,3.5,6,26,1
+2022,suv: small,X,3.5,6,25,0
+2022,SUV: Standard,Z,3.5,6,36,1
+2022,SUV: Standard,Z,3.5,6,35,1
+2022,Mid-size,X,2.0,4,39,1
+2022,COMPACT,X,2.0,4,47,1
+2022,SUV: Standard,X,3.0,6,24,0
+2022,suv: small,X,2.0,4,29,1
+2022,suv: small,X,2.3,4,29,1
+2022,suv: small,X,2.0,4,26,1
+2022,suv: small,X,2.0,4,26,1
+2022,suv: small,X,2.7,6,25,0
+2022,SUV: Standard,X,3.5,6,21,0
+2022,Mid-size,Z,3.0,6,24,0
+2022,Mid-size,Z,3.0,6,24,0
+2022,Mid-size,Z,3.0,6,22,0
+2022,Mid-size,Z,3.8,8,19,0
+2022,SUV: Standard,Z,3.0,6,21,0
+2022,SUV: Standard,Z,3.0,6,21,0
+2022,SUV: Standard,Z,3.8,8,19,0
+2022,SUV: Standard,Z,3.8,8,19,0
+2022,Two-seater,Z,3.0,6,22,0
+2022,Full-size,Z,3.0,6,23,0
+2022,Full-size,Z,3.0,6,23,0
+2022,Full-size,Z,3.0,6,22,0
+2022,Full-size,Z,3.8,8,19,0
+2022,COMPACT,X,2.0,4,37,1
+2022,COMPACT,X,2.0,4,35,1
+2022,COMPACT,X,2.0,99,35,1
+2022,suv: small,X,2.0,4,33,1
+2022,suv: small,X,2.5,4,32,1
+2022,suv: small,X,2.5,4,30,1
+2022,suv: small,X,2.5,4,30,1
+2022,suv: small,X,2.5,4,31,1
+2022,suv: small,X,2.5,4,29,1
+2022,suv: small,X,2.5,4,27,1
+2022,COMPACT,X,2.0,4,37,1
+2022,COMPACT,X,2.0,4,37,1
+2022,COMPACT,X,2.5,4,36,1
+2022,COMPACT,X,2.5,4,33,0
+2022,COMPACT,X,2.5,4,32,1
+2022,Mid-size,X,2.0,4,37,1
+2022,Mid-size,X,2.0,4,36,1
+2022,Mid-size,X,2.5,4,35,1
+2022,Mid-size,X,2.5,4,34,1
+2022,Mid-size,X,2.5,4,33,1
+2022,Mid-size,X,2.5,4,32,1
+2022,Two-seater,Z,2.0,4,36,1
+2022,Two-seater,Z,2.0,4,35,1
+2022,Subcompact,Z,2.0,4,34,1
+2022,Station wagon: Small,Z,2.0,4,32,1
+2022,Subcompact,Z,2.0,4,30,1
+2022,Station wagon: Small,Z,2.0,4,30,1
+2022,Subcompact,Z,3.0,6,26,1
+2022,Subcompact,Z,3.0,6,26,0
+2022,COMPACT,Z,2.0,4,29,1
+2022,COMPACT,Z,2.0,4,27,1
+2022,COMPACT,Z,3.0,6,27,1
+2022,Mid-size,Z,3.0,6,29,1
+2022,Subcompact,Z,3.0,6,27,1
+2022,Subcompact,Z,3.0,6,28,1
+2022,Station wagon: Small,Z,2.0,4,29,1
+2022,Station wagon: Small,Z,2.0,4,25,0
+2022,Station wagon: Mid-size,Z,2.0,4,25,0
+2022,suv: small,Z,3.0,6,25,0
+2022,suv: small,Z,0.01,6,23,0
+2022,SUV: Standard,Z,3.0,6,23,0
+2022,SUV: Standard,Z,3.0,6,23,0
+2022,COMPACT,Z,3.0,6,26,0
+2022,Subcompact,Z,2.0,4,29,0
+2022,Subcompact,Z,2.0,4,30,1
+2022,COMPACT,Z,2.0,4,33,1
+2022,COMPACT,Z,3.0,6,29,1
+2022,Mid-size,Z,2.0,4,29,1
+2022,Mid-size,Z,3.0,6,30,0
+2022,Subcompact,Z,3.0,6,29,1
+2022,Subcompact,Z,3.0,6,29,1
+2022,Station wagon: Mid-size,Z,3.0,6,29,1
+2022,suv: small,Z,2.0,4,31,1
+2022,suv: small,Z,2.0,4,30,1
+2022,suv: small,Z,2.0,4,27,1
+2022,suv: small,Z,2.0,4,28,1
+2022,SUV: Standard,Z,2.0,4,26,0
+2022,SUV: Standard,Z,3.0,6,27,1
+2022,SUV: Standard,Z,3.0,6,27,1
+2022,SUV: Standard,Z,3.0,6,25,0
+2022,Full-size,Z,4.0,8,22,0
+2022,Special purpose vehicle,Z,2.0,4,25,0
+2022,Special purpose vehicle,Z,2.0,4,25,0
+2022,Special purpose vehicle,Z,2.0,4,23,0
+2022,Full-size,Z,3.0,6,29,1
+2022,Full-size,Z,4.0,8,23,0
+2022,Subcompact,Z,1.5,3,39,1
+2022,Subcompact,Z,1.5,3,37,1
+2022,Subcompact,Z,1.5,3,39,1
+2022,Subcompact,Z,1.5,3,37,1
+2022,Minicompact,Z,1.5,3,39,1
+2022,Minicompact,Z,1.5,3,37,1
+2022,Mid-size,Z,1.5,3,31,1
+2022,Subcompact,Z,2.0,4,38,1
+2022,Subcompact,Z,2.0,4,31,1
+2022,Subcompact,Z,2.0,4,38,0
+2022,Subcompact,Z,2.0,4,31,1
+2022,Mid-size,Z,2.0,4,32,1
+2022,Minicompact,Z,2.0,4,36,1
+2022,Minicompact,Z,2.0,4,32,1
+2022,Mid-size,Z,2.0,4,31,1
+2022,Subcompact,Z,2.0,4,34,1
+2022,Subcompact,Z,2.0,4,31,1
+2022,Mid-size,Z,2.0,4,31,1
+2022,Minicompact,Z,2.0,4,33,1
+2022,Mid-size,Z,2.0,4,31,1
+2022,suv: small,X,1.5,4,30,1
+2022,COMPACT,X,1.2,3,46,1
+2022,COMPACT,X,1.2,3,43,1
+2022,suv: small,X,2.5,4,32,1
+2022,suv: small,X,2.0,4,32,1
+2022,suv: small,X,2.0,4,31,1
+2022,suv: small,X,2.4,4,30,1
+2022,Mid-size,X,2.5,4,36,1
+2022,Mid-size,X,2.5,4,35,1
+2022,SUV: Standard,Z,5.6,8,18,0
+2022,Pickup truck: Standard,X,3.8,6,25,0
+2022,Pickup truck: Standard,X,3.8,6,23,0
+2022,Mid-size,X,1.6,4,39,1
+2022,Mid-size,Z,3.5,6,29,1
+2022,Station wagon: Mid-size,X,3.5,6,27,1
+2022,suv: small,X,3.5,6,27,1
+2022,Station wagon: Small,X,2.0,4,35,1
+2022,Station wagon: Small,X,2.0,4,31,1
+2022,Station wagon: Small,X,2.0,4,34,1
+2022,suv: small,X,1.5,3,39,1
+2022,suv: small,X,2.5,4,35,1
+2022,suv: small,X,1.5,3,37,1
+2022,suv: small,X,1.5,3,37,1
+2022,suv: small,X,2.5,4,34,1
+2022,Mid-size,X,2.0,4,40,1
+2022,Mid-size,X,2.0,4,39,1
+2022,Mid-size,X,2.0,4,36,1
+2022,Mid-size,X,2.0,4,35,1
+2022,COMPACT,X,1.6,4,42,1
+2022,COMPACT,X,1.6,4,37,1
+2022,Two-seater,Z,2.0,4,28,1
+2022,Two-seater,Z,2.0,4,27,1
+2022,Two-seater,Z,2.0,4,28,1
+2022,Two-seater,Z,2.0,4,27,1
+2022,Two-seater,Z,2.5,4,26,1
+2022,Two-seater,Z,2.5,4,25,0
+2022,Two-seater,Z,4.0,6,25,0
+2022,Two-seater,Z,4.0,6,23,0
+2022,Two-seater,Z,2.0,4,28,1
+2022,Two-seater,Z,2.0,4,27,1
+2022,Two-seater,Z,2.0,4,28,1
+2022,Two-seater,Z,2.0,4,27,1
+2022,Two-seater,Z,2.5,4,26,1
+2022,Two-seater,Z,2.5,4,25,0
+2022,Two-seater,Z,4.0,6,24,0
+2022,Two-seater,Z,4.0,6,23,0
+2022,Two-seater,Z,4.0,6,25,0
+2022,Two-seater,Z,4.0,6,23,0
+2022,Two-seater,Z,4.0,6,24,0
+2022,Two-seater,Z,4.0,6,23,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,25,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,23,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,0.01,6,23,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,23,0
+2022,Minicompact,Z,3.0,6,23,0
+2022,Minicompact,Z,3.0,6,23,0
+2022,Minicompact,Z,3.0,6,22,0
+2022,Minicompact,Z,4.0,6,20,0
+2022,Minicompact,Z,4.0,6,19,0
+2022,Minicompact,Z,4.0,6,20,0
+2022,Minicompact,Z,4.0,6,19,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,24,0
+2022,Minicompact,Z,3.0,6,23,0
+2022,Minicompact,Z,3.0,6,22,0
+2022,Minicompact,Z,3.7,6,21,0
+2022,Minicompact,Z,3.7,6,20,0
+2022,Minicompact,Z,3.7,6,21,0
+2022,Minicompact,Z,3.7,6,20,0
+2022,SUV: Standard,Z,3.0,6,23,0
+2022,SUV: Standard,Z,3.0,6,23,0
+2022,SUV: Standard,Z,2.9,6,22,0
+2022,SUV: Standard,Z,2.9,6,22,0
+2022,SUV: Standard,Z,4.0,8,20,0
+2022,SUV: Standard,Z,4.0,8,20,0
+2022,SUV: Standard,Z,4.0,8,19,0
+2022,SUV: Standard,Z,4.0,8,20,0
+2022,SUV: Standard,Z,4.0,8,19,0
+2022,suv: small,Z,2.0,4,26,0
+2022,suv: small,Z,2.9,6,23,0
+2022,suv: small,Z,2.9,6,23,0
+2022,Full-size,Z,2.9,6,24,0
+2022,Full-size,Z,2.9,6,25,0
+2022,Full-size,Z,2.9,6,23,0
+2022,Full-size,Z,2.9,6,24,0
+2022,Full-size,Z,2.9,6,25,0
+2022,Full-size,Z,2.9,6,23,0
+2022,Full-size,Z,2.9,6,23,0
+2022,Full-size,Z,4.0,8,21,0
+2022,Full-size,Z,4.0,8,20,0
+2022,Full-size,Z,4.0,8,21,0
+2022,Full-size,Z,4.0,8,21,0
+2022,Full-size,Z,4.0,8,21,0
+2022,Pickup truck: Standard,D,3.0,6,31,1
+2022,Pickup truck: Standard,D,3.0,6,32,1
+2022,Pickup truck: Standard,X,3.6,6,26,1
+2022,Pickup truck: Standard,X,3.6,6,27,1
+2022,Pickup truck: Standard,X,5.7,8,21,0
+2022,Pickup truck: Standard,X,5.7,8,24,0
+2022,Pickup truck: Standard,D,3.0,6,29,0
+2022,Pickup truck: Standard,X,3.6,6,25,0
+2022,Pickup truck: Standard,X,5.7,8,20,0
+2022,Pickup truck: Standard,X,5.7,8,23,0
+2022,Pickup truck: Standard,Z,6.2,8,14,0
+2022,Pickup truck: Standard,X,3.6,6,24,0
+2022,Pickup truck: Standard,X,5.7,8,21,0
+2022,Pickup truck: Standard,X,3.6,6,22,0
+2022,Pickup truck: Standard,X,5.7,8,20,0
+2022,Special purpose vehicle,X,2.4,4,29,1
+2022,Station wagon: Mid-size,Z,6.7,12,17,0
+2022,Station wagon: Mid-size,Z,6.7,12,17,0
+2022,Full-size,Z,6.7,12,17,0
+2022,Full-size,Z,6.7,12,17,0
+2022,Full-size,Z,6.7,12,17,0
+2022,Full-size,Z,6.7,12,17,0
+2022,Full-size,Z,6.7,12,17,0
+2022,SUV: Standard,X,2.4,4,27,1
+2022,Minicompact,Z,2.4,4,30,1
+2022,Minicompact,Z,2.4,4,27,1
+2022,suv: small,X,2.0,4,36,1
+2022,suv: small,X,2.0,4,30,1
+2022,suv: small,X,2.5,4,35,1
+2022,suv: small,X,2.5,4,34,1
+2022,suv: small,X,2.5,4,31,1
+2022,Mid-size,X,2.0,4,38,1
+2022,Mid-size,X,2.0,4,31,1
+2022,Station wagon: Small,X,2.0,4,37,1
+2022,Station wagon: Small,X,2.0,4,31,1
+2022,Full-size,X,2.4,4,32,1
+2022,Full-size,X,2.5,4,36,1
+2022,suv: small,X,2.4,4,31,1
+2022,suv: small,X,2.5,4,34,1
+2022,suv: small,X,2.4,4,28,1
+2022,Mid-size,Z,2.4,4,25,0
+2022,Mid-size,Z,2.4,4,26,1
+2022,SUV: Standard,X,4.0,6,20,0
+2022,SUV: Standard,X,4.0,6,20,0
+2022,COMPACT,X,2.0,4,34,1
+2022,Mid-size,X,2.5,4,38,1
+2022,Mid-size,X,2.5,4,37,1
+2022,Mid-size,X,3.5,6,31,0
+2022,Mid-size,X,3.5,6,30,0
+2022,Mid-size,X,2.5,4,34,1
+2022,Mid-size,X,2.5,4,34,1
+2022,Mid-size,X,2.5,4,58,1
+2022,Mid-size,X,2.5,4,55,1
+2022,COMPACT,X,1.8,4,40,1
+2022,COMPACT,X,1.8,4,39,1
+2022,COMPACT,X,1.8,4,40,1
+2022,COMPACT,X,2.0,4,42,1
+2022,COMPACT,X,2.0,4,40,1
+2022,COMPACT,X,2.0,4,38,1
+2022,COMPACT,X,2.0,4,40,1
+2022,COMPACT,X,2.0,4,42,1
+2022,COMPACT,X,2.0,4,37,1
+2022,COMPACT,X,1.8,4,63,1
+2022,suv: small,X,2.0,4,39,1
+2022,suv: small,X,2.0,4,36,1
+2022,Minicompact,Z,2.4,4,29,1
+2022,Minicompact,Z,2.4,4,27,1
+2022,Two-seater,Z,2.0,4,34,1
+2022,Two-seater,Z,3.0,6,30,1
+2022,suv: small,X,3.5,6,27,1
+2022,SUV: Standard,X,2.5,4,42,1
+2022,SUV: Standard,X,2.5,4,42,1
+2022,Mid-size,X,1.8,4,63,1
+2022,Mid-size,X,1.8,4,59,1
+2022,suv: small,X,2.5,4,36,1
+2022,suv: small,X,2.5,4,37,1
+2022,suv: small,X,2.5,4,34,1
+2022,suv: small,X,2.5,4,35,1
+2022,suv: small,X,2.5,4,36,1
+2022,suv: small,X,2.5,4,33,1
+2022,suv: small,X,2.5,4,47,1
+2022,SUV: Standard,X,5.7,8,17,0
+2022,Minivan,X,2.5,4,43,1
+2022,Minivan,X,2.5,4,42,1
+2022,Pickup truck: Small,X,3.5,6,24,0
+2022,Pickup truck: Small,X,3.5,6,22,0
+2022,Pickup truck: Small,X,3.5,6,22,0
+2022,Pickup truck: Standard,X,3.4,6,24,0
+2022,Pickup truck: Standard,X,3.4,6,23,0
+2022,Pickup truck: Standard,X,3.4,6,23,0
+2022,Pickup truck: Standard,X,3.4,6,24,0
+2022,Pickup truck: Standard,X,3.4,6,24,0
+2022,suv: small,X,2.5,4,46,1
+2022,suv: small,X,2.0,4,27,1
+2022,suv: small,X,3.6,6,23,0
+2022,suv: small,X,2.0,4,26,1
+2022,suv: small,X,3.6,6,24,0
+2022,Mid-size,X,2.0,4,34,1
+2022,Mid-size,X,2.0,4,33,1
+2022,Mid-size,Z,2.0,4,31,1
+2022,Mid-size,Z,2.0,4,28,1
+2022,COMPACT,X,1.5,4,42,1
+2022,COMPACT,X,1.5,4,40,1
+2022,COMPACT,X,1.5,4,41,1
+2022,COMPACT,X,2.0,4,36,1
+2022,COMPACT,X,2.0,4,36,1
+2022,Mid-size,X,2.0,4,34,1
+2022,suv: small,X,1.5,4,37,1
+2022,suv: small,X,1.5,4,33,1
+2022,suv: small,X,2.0,4,30,0
+2022,suv: small,X,2.0,4,29,1
+2022,COMPACT,Z,2.0,4,35,1
+2022,COMPACT,Z,2.0,4,34,0
+2022,Mid-size,Z,2.0,4,31,1
+2022,Station wagon: Small,Z,2.0,4,29,1
+2022,Station wagon: Small,Z,2.0,4,30,1
+2022,Station wagon: Mid-size,Z,2.0,4,30,1
+2022,suv: small,X,2.0,4,30,1
+2022,suv: small,Z,2.0,4,30,1
+2022,suv: small,Z,2.0,4,30,1
+2022,suv: small,Z,2.0,4,29,1
+2022,SUV: Standard,Z,2.0,4,28,1
+2022,SUV: Standard,Z,2.0,4,26,1
+2022,Pickup truck: Standard,X,5.0,8,22,0
+2022,Full-size,Z,3.0,6,27,0
+2022,Full-size,Z,4.0,8,21,0
+2022,Pickup truck: Standard,X,5.3,8,20,0
+2022,Full-size,Z,3.0,6,30,1
+2022,suv: small,X,3.6,6,24,0
+2022,suv: small,Z,2.0,4,30,1
+2022,SUV: Standard,Z,4.0,8,20,0
+2022,Mid-size,Z,2.0,4,28,1
+2022,Minicompact,Z,3.7,6,20,0
